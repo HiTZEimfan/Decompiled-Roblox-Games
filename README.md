@@ -25,7 +25,7 @@ For details, refer to [Roblox's Terms of Service](https://en.help.roblox.com/hc/
 
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License, See the [FILE](https://github.com/HiTZEimfan/Decompiled-Roblox-Games/blob/main/LICENSE) for more information.
 
 ## Copyright
 © 2024 [HITZEIMFAN]. All rights reserved.
