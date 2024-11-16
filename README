@@ -1,38 +1,37 @@
 
-**A place designed for already decompiled Roblox games for educational and research purposes. This project aims to help developers analyze, understand, and learn from existing games while strictly adhering to Roblox's Terms of Service (TOS).**
+# Decompiled Roblox Games
 
-## 🚀 Features
-- Already decompiled Roblox `.rbxl` and `.rbxlx` files
-- Extract scripts, assets, and models for analysis
-- Intended for script developers needing access to models, localscripts, or modules
-- **Note**: **Decompiled games cannot be played (playtesting)**. They are not intended for playtesting but for educational use in scripting and model analysis.
+A stash for Decompiled Roblox games for **educational** and **research** purposes. This project helps developers analyze, understand, and learn from existing games while strictly adhering to Roblox's Terms of Service (TOS).
 
-## 🛠️ Decompilation by ORACLE
-This project utilizes **ORACLE**, the #1 Roblox game decompiler.
+## Features
+- Decompile Roblox `.rbxl` and `.rbxlx` files
+- Extract scripts, assets, models, localscripts, and modules
+- **Decompiled games cannot be played (playtesting)**. They are intended for script developers or those needing assets for analysis purposes only
+
+### Decompilation by ORACLE
+This project utilizes **ORACLE**, the #1 Roblox game decompiler.  
 [Buy Oracle, The #1 Decompiler](https://discord.gg/4HhEDQS3hb)
 
-## ⚠️ Disclaimer
-This project **does not** support or endorse any form of piracy, unauthorized use, or distribution of copyrighted content. The purpose of this tool is strictly **educational** and meant for personal research. Any misuse of this tool to exploit or redistribute copyrighted assets from Roblox games is strictly prohibited and is the responsibility of the user.
+## Disclaimer
+This project **does not** support or endorse any form of piracy, unauthorized use, or distribution of copyrighted content. The tool is intended strictly for **educational use**. Misuse to exploit or redistribute decompiled assets is prohibited and solely the user's responsibility.
 
-### **TOS Compliance**
-The tool is built to comply with Roblox's Terms of Service:
-- **Educational Use Only**: It is designed for learning and understanding game development concepts.
-- **No Unauthorized Redistribution**: Users must not use this tool to distribute or re-upload decompiled assets or scripts without permission from the original creators.
-- **Respect for Intellectual Property**: Users should respect the intellectual property rights of game developers and avoid any misuse that could lead to legal consequences.
+### TOS Compliance
+This tool complies with Roblox's Terms of Service:
+- **Educational Use Only**: Designed for learning and understanding game development concepts
+- **No Unauthorized Redistribution**: Do not share or re-upload decompiled assets without permission from the original creators
+- **Respect for Intellectual Property**: Always respect the IP rights of game developers
 
-For more information, please refer to [Roblox's Terms of Service](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
+For details, refer to [Roblox's Terms of Service](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
 
-## 📄 License
-This project is licensed under the **MIT License** - see the  file for details.
+## License
+This project is licensed under the MIT License
 
-## © Copyright
-© [Your Name or Company Name] 2024. All rights reserved.
+## Copyright
+© 2024 [HITZEIMFAN]. All rights reserved.
 
-### **Copyright Notice**
-- All decompiled assets and code belong to their respective original owners. This tool does not claim ownership of any decompiled content.
-- The use of this tool to extract or modify assets from any Roblox game is solely at the discretion and responsibility of the user.
-- Any form of unauthorized distribution or use of decompiled content may lead to a violation of copyright laws and Roblox's Terms of Service.
+- All decompiled assets and code belong to their original owners. This tool does not claim ownership of any decompiled content.
+- Unauthorized distribution or use of decompiled content may violate copyright laws and Roblox's TOS.
 
-## 🛡️ Legal Disclaimer
-This project is provided **as-is**, without warranty of any kind. The authors are not responsible for any misuse or legal consequences arising from the use of this tool. Users must ensure compliance with all applicable laws and platform policies.
+## Legal Disclaimer
+This project is provided "as-is" without any warranty. The authors are not responsible for any misuse or legal consequences arising from its use. Users must comply with all applicable laws and platform policies.
