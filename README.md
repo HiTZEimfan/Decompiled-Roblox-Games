@@ -3,9 +3,9 @@
 
 A stash for Decompiled Roblox games for **educational** and **research** purposes. This project helps developers analyze, understand, and learn from existing games while strictly adhering to Roblox's Terms of Service (TOS).
 
-## Features
-- Decompile Roblox `.rbxl` and `.rbxlx` files
-- Extract scripts, assets, models, localscripts, and modules
+## What to expect
+- Decompiled Roblox `.rbxl` and `.rbxlx` files
+- Have access to assets, models, localscripts, and modules
 - **Decompiled games cannot be played (playtesting)**. They are intended for script developers or those needing assets for analysis purposes only
 
 ### Decompilation by ORACLE
