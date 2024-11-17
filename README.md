@@ -32,7 +32,6 @@ This project is licensed under the MIT License, See the [FILE](https://github.co
 © 2024 [HITZEIMFAN]. All rights reserved.
 
 - All decompiled assets and code belong to their original owners. This tool does not claim ownership of any decompiled content.
-- Unauthorized distribution or use of decompiled content may violate copyright laws and Roblox's TOS.
 
 ## Legal Disclaimer
 This project is provided "as-is" without any warranty. The authors are not responsible for any misuse or legal consequences arising from its use. Users must comply with all applicable laws and platform policies.
