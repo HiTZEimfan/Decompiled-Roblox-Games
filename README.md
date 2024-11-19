@@ -3,7 +3,7 @@
 
 A stash for Decompiled Roblox games for **educational** and **research** purposes. This project helps developers analyze, understand, and learn from existing games while strictly adhering to Roblox's Terms of Service (TOS).
 
-# You can request for a game to be DECOMPILED FOR YOU, UNDER [issues](https://github.com/HiTZEimfan/Decompiled-Roblox-Games/issues)
+# You can request for a game to be DECOMPILED FOR YOU, UNDER [issues](https://github.com/HiTZEimfan/Decompiled-Roblox-Games/issues) BUT NO RP GAMES,CASHGRAB, LOW QUALITY GAMES.
 ## What to expect
 - Decompiled Roblox `.rbxl` and `.rbxlx` files
 - Have access to assets, models, localscripts, and modules
