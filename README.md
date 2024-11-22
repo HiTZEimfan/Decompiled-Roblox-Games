@@ -24,14 +24,9 @@ This tool complies with Roblox's Terms of Service:
 
 For details, refer to [Roblox's Terms of Service](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
-
-## License
-This project is licensed under the MIT License, See the [FILE](https://github.com/HiTZEimfan/Decompiled-Roblox-Games/blob/main/LICENSE) for more information.
-
-## Copyright
-© 2024 [HITZEIMFAN]. All rights reserved.
-
 - All decompiled assets and code belong to their original owners. This tool does not claim ownership of any decompiled content.
 
 ## Legal Disclaimer
 This project is provided "as-is" without any warranty. The authors are not responsible for any misuse or legal consequences arising from its use. Users must comply with all applicable laws and platform policies.
+
+# - HITZEIMFAN
